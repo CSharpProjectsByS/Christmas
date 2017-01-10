@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\Święta\Święta\bin\Debug\Święta.exe.config
+D:\Programowanie\VisualProjects\Święta\Święta\bin\Debug\Święta.exe
+D:\Programowanie\VisualProjects\Święta\Święta\bin\Debug\Święta.pdb
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.Form1.resources
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.Properties.Resources.resources
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.exe
+D:\Programowanie\VisualProjects\Święta\Święta\obj\Debug\Święta.pdb
